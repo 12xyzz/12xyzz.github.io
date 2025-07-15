@@ -1,5 +1,10 @@
-title: Minimal theme
+title:
+# position:
+# affiliation:
+# email:
+# google_scholar:
+# github_link:
+# linkedin:
+# google_analytics:
 description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
 theme: jekyll-theme-minimal
