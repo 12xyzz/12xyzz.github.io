@@ -29,7 +29,7 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   color:#222;
-  margin:0 0 20px;
+  margin:0 0 16px;
 }
 
 p, ul, ol, table, pre, dl {
@@ -217,15 +217,15 @@ footer {
 
 .social-icons a {
   display: inline-block;
-  height: 3rem;
-  width: 3rem;
+  height: 2.25rem;
+  width: 2.25rem;
   background-color: #495057;
   color: #fff!important;
   border-radius: 100%;
   text-align: center;
-  font-size: 1.5rem;
-  line-height: 3.1rem;
-  margin-right: 1rem;
+  font-size: 1.1rem;
+  line-height: 2.3rem;
+  margin-right: 0.75rem;
 }
 
 .social-icons a:last-child {
